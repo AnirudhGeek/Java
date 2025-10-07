@@ -15,6 +15,8 @@ class DataTypes{
         char c = 'A';
 
         boolean b = true;
+                //can't able to code due to MTs
+
     }
 
 }
