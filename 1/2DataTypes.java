@@ -15,7 +15,28 @@ class DataTypes{
         char c = 'A';
 
         boolean b = true;
-                //can't able to code due to MTs
+        //can't able to code due to MTs
+ 
+
+        //literals
+        //binary 
+        int num3 = 0b101;
+        System.out.println(num3);
+
+        //hexadecimal
+        int num4 = 0x7E;
+        System.out.println(num4);
+
+
+        //couting the big numbers is easy in java as we can write them like 
+        double num5 = 10_00_00_000;
+        System.out.println(num5);
+
+
+        //also we can increment a charter 
+        char z = 'a';
+        z++;
+        System.out.println(z);
 
     }
 
