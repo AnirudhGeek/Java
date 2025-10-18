@@ -38,4 +38,5 @@ class ConditionalRendering{
         //exam time
         //exam time
         //exam time
+        //rest day
 }
